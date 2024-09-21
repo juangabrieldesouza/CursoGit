@@ -10,8 +10,25 @@ nav {
 }
 
 
+
 footer {
     background-color: black;
     display: flex;
     
+
+
+}
+
+
+
+#ft1 {
+
+    padding-right: 20px;
+    font-weight: bold;
+    color: coral;
+}
+
+#ft2 {
+    color:antiquewhite;
+
 }
