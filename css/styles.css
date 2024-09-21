@@ -8,3 +8,10 @@ nav {
     background-color: blueviolet;
     color: aliceblue;
 }
+
+
+footer {
+
+    display: flex;
+
+}
