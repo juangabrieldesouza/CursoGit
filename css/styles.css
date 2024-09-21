@@ -4,7 +4,7 @@ body {
 
 nav {
     display: flex;
-    padding: 50 px;
+    padding: 50px;
     background-color: blueviolet;
     color: aliceblue;
 }
